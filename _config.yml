@@ -21,15 +21,14 @@
 title: Matthew Burton Portfolio 
 email: 36slices@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a website That I have designed using Jekyll to present my portfolio and Assessment 2 for 
-  WEB503. This is designed to track my progress as an embedded designer and assist me in the 
-  future, allowing me to display my information better and provide better documentation on myself. - "Kaizen; continuous improvement." 
+  A webpage designed to track my progress as a portfolio and store my journals/blog posts.
+  "Kaizen: continuous improvement."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mattburt36
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
