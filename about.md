@@ -26,14 +26,14 @@ establishment and run the fine dining side, which recieved a rating of 1.5 hats 
 Now, working for my parents, I have found that I am completing tasks I never thought possible, completely 
 designing PCBs from scratch, Reflowing them, coding them and designing enclosures for them with a 3D printer. 
 
-![image](\images\reflow.png)
-![image](\images\reflowin.png)
-![image](\images\knife.png)
+![image](images\reflow.png)
+![image](images\reflowin.png)
+![image](images\knife.png)
 
 <br/>
 <hr>
 <br/>
 
-![image](\images\loop.png)
-![image](\images\webclass.png)
-![image](\images\FirstPCB.png)
+![image](images\loop.png)
+![image](images\webclass.png)
+![image](images\FirstPCB.png)

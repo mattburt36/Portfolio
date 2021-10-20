@@ -15,7 +15,7 @@ layout: default
 </p1>
 <br/> 
 
-![image](assets\images\caps.png)
-![image](assets\images\beat.png)
-![image](assets\images\concep.png)
+![image](\images\caps.png)
+![image](\images\beat.png)
+![image](\images\concep.png)
 
