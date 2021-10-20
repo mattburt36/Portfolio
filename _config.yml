@@ -19,7 +19,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-title-logo: images\PortfolioImage.png
+title-logo: assets\images\PortfolioImage.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
